@@ -109,10 +109,4 @@ Default frontend URL: http://localhost:3000
 - The backend auto-loads environment variables from backend/.env.
 - If ports 3000 or 8000 are already in use, stop the conflicting process or change port settings.
 
-## Git Workflow
 
-After making changes:
-
-git add .
-git commit -m "Update README and project docs"
-git push
