@@ -38,3 +38,6 @@ env/
 .DS_Store
 .vscode/
 */guardianid.db
+
+# Ignore project documentation folder
+docs/
