@@ -102,17 +102,6 @@ Default frontend URL: http://localhost:3000
 4. Open /responder and accept the confirmed ticket
 5. Verify responder-tourist and authority-responder chat updates
 
-For detailed scripted verification, see:
-- docs/QUICK_START.md
-- docs/RESPONDER_TESTING.md
-- docs/TESTING_CHECKLIST.md
-
-## API and Architecture References
-
-- docs/INTEGRATION_GUIDE.md
-- docs/RESPONDER_DUAL_CHAT_ARCHITECTURE.md
-- docs/TOURIST_RESPONDER_CHAT_FIXED.md
-- docs/SYSTEM_STATUS.md
 
 ## Notes
 
