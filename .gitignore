@@ -9,6 +9,7 @@ backend.zip
 
 # Ignore README.md in subfolders
 **/README.md
+!README.md
 
 # Ignore database files
 *.db
